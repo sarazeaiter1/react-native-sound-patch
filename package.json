@@ -1,0 +1,13 @@
+{
+  "name": "Et3arrafApp",
+  "version": "4.0.0",
+  "private": true,
+  "scripts": {
+    "postinstall": "patch-package"
+  },
+  "dependencies": {
+    "react-native-sound": "^0.9.1",
+    "patch-package": "6.0.0-9"
+  },
+  "devDependencies": {}
+}
